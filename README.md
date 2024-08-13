@@ -120,9 +120,10 @@ Sites are constantly emailing you promotions. It is labor-intensive to read all 
 1. Watch for promotional emails
 2. Process the email to see if it is general marketing or if it contains a promotion
 3. Use LLM to extract promotion details
-4. Store the promotion in DB
-5. List promotions in dashboard
-6. View email containing promotion
+4. Send Push Notification to your phone for time sensitive promotions (SNS, Pushover)
+5. Store the promotion in DB
+6. List promotions in dashboard
+7. View email containing promotion
 
 ### Timecard
 
